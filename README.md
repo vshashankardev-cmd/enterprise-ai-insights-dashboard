@@ -6,7 +6,7 @@ An AI-powered enterprise dashboard that combines **Retrieval-Augmented Generatio
 
 ## 📄 Research Paper
 
-👉 [Read Full Paper](paper/enterprise_ai_dashboard_paper.pdf)
+👉 [Read Full Paper](paper/Design_and_Implementation_of_a_Retrieval_Augmented_Enterprise_AI_Dashboard_Using_LLM.pdf
 
 This research presents the design and implementation of an enterprise AI dashboard that augments traditional analytics with natural language reasoning and retrieval-based grounding.
 
@@ -105,5 +105,3 @@ The system consists of:
 - LLM (currently mocked, extendable to OpenAI)
 
 ---
-
-## 📁 Project Structure
